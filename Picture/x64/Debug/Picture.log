@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Picture\main.cpp(144,33): warning C4244: “=”: 从“double”转换到“uint8_t”，可能丢失数据
+D:\Visual Studio\VC\Tools\MSVC\14.33.31629\include\ostream(414,1): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\Visual Studio\VC\Tools\MSVC\14.33.31629\include\ostream(407): message : 在编译 类 模板 成员函数“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)”时
+D:\opencv\opencv\build\include\opencv2\core\utility.hpp(398): message : 查看对正在编译的函数 模板 实例化“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)”的引用
+D:\Visual Studio\VC\Tools\MSVC\14.33.31629\include\ostream(671): message : 查看对正在编译的 类 模板 实例化“std::basic_ostream<char,std::char_traits<char>>”的引用
+  Picture.vcxproj -> C:\Users\user\Desktop\Picture\x64\Debug\Picture.exe
